@@ -30,3 +30,5 @@ This project was developed as part of my **Cloud Computing and DevOps** training
 I am a Systems Engineering Student based in Querétaro, Mexico, currently specializing in DevOps and Infrastructure. I am passionate about automation, CI/CD pipelines, and cloud architecture.
 
 Feel free to reach out if you have any questions or suggestions!
+https://roadmap.sh/projects/server-stats
+
